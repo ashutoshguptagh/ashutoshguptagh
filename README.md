@@ -1,99 +1,130 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=20" width="100%"/>
+# 🌌 **GALACTIC CODE MATRIX** 🌌
+## ⚡ **Commander Ashutosh Gupta** - Digital Space Pioneer ⚡
+### 🚀 Full Stack Developer @ Student | 🛸 Sector Navi Mumbai, India
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=ACCESSING+NEURAL+NETWORK...;INITIALIZING+QUANTUM+PROTOCOLS;Build with purpose, learn without limits, improve every day. 🚀;READY+FOR+DEEP+SPACE+DEPLOYMENT" alt="System Boot Sequence" />
 
-<div align="center">
-
-# 👋 Welcome to Ashutosh's GitHub
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=10" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ashug1919@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=19&height=140&section=header&text=🛸&fontSize=80&fontColor=00D9FF&animation=blinking"/>
 
 </div>
 
 ---
 
-<h3 align="center">⊙ Technologies</h3>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+## 🛸 **NEURAL INTERFACE STATUS** 🛸
+### *Commander Profile & Mission Briefing*
+
+```yaml
+╔══════════════════════════════════════╗
+║  GALACTIC REGISTRY ENTRY             ║
+╠══════════════════════════════════════╣
+║  Callsign: ashutoshguptagh              ║
+║  Rank: Entry Level (Student / Fresher)           ║
+║  Specialization: Full Stack Development, Backend Engineering, REST APIs, AI/ML Integration       ║
+║  Current Mission: Building real-world projects, mastering full-stack development, and integrating AI into practical applications while growing as a software engineer. 🚀 ║
+║  Bio-Matrix: 👋 I'm Ashutosh Gupta, a B.Sc. Computer Science student and Full Stack Developer passionate about Python, FastAPI, React, Next.js, and AI/ML. 🚀 I love building real-world projects and learning new technologies.                 ║
+╚══════════════════════════════════════╝
+```
+
+### ⚡ **Quantum Philosophy**
+> *"Technology should solve real-world problems, simplify lives, and empower people. I believe in building useful, accessible, and scalable solutions through continuous learning and innovation. 🚀"*
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshguptagh&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF073A&currStreakLabel=00D9FF&sideLabels=39FF14&dates=C9C9C9" width="520"/>
 
 </div>
 
 ---
 
-<h3 align="center">⊙ Statistics</h3>
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Ashutosh%20Gupta's%20Contribution%20Graph" />
+## 🔬 **TECHNOLOGY MATRIX** 🔬
+### *Advanced Systems & Protocols*
 
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-<h3 align="center">⊙ About Me</h3>
-
-<div align="center">
-
-<table>
+<table align="center" style="border: none;">
 <tr>
-<td width="35%" align="center">
+<td align="center">
 
-<img src="https://github.com/user-attachments/assets/YOUR_AVATAR_IMAGE" width="200" alt="Developer avatar"/>
+### ⚡ **Primary Arsenal**
+<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,tailwindcss,nodejs,python,django,postgresql,mongodb,sqlite,mysql,supabase,firebase,aws,linux,gcp,docker,kubernetes,numpy,pandas,scikitlearn,git,github,vscode,postman)](https://skillicons.dev)&theme=dark&perline=8" />
+
+### 🌌 **System Architecture Analysis**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshguptagh&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9C9C9&icon_color=FF073A" width="420"/>
 
 </td>
-<td width="65%" align="center">
+</tr>
+</table>
 
-Hello! I'm **Ashutosh Gupta**, a Computer Science student and aspiring Full Stack Developer.
+### 📊 **Neural Activity Patterns**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshguptagh&theme=radical" width="680"/>
 
-I'm passionate about building practical applications, exploring backend engineering, and learning AI/ML.
+### 🚀 **Deep Space Mission Log**
+```yaml
+🛸 Current Exploration: Currently learning Data Structures & Algorithms, advanced Python, FastAPI, Next.js, and AI/ML to build scalable, production-ready applications.
+⚡ Power Core: Python & FastAPI Ecosystem
+🌟 Mission Status: Open to Internship Opportunities
+🔋 Energy Level: Optimal for Extended Operations
+```
 
-Currently working with **Python, FastAPI, React, Next.js, and PostgreSQL**, while improving my problem-solving and software development skills.
+</div>
 
-I enjoy turning ideas into useful applications and continuously learning new technologies.
+---
+
+<div align="center">
+
+## 🛰️ **GALACTIC PROJECT DEPLOYMENTS** 🛰️
+### *Critical Mission Archives*
+
+<table align="center" style="width: 95%; border-collapse: separate; border-spacing: 15px;">
+<tr>
+<td align="center" width="32%" style="border: 2px solid #00D9FF; border-radius: 12px; padding: 25px; background: linear-gradient(135deg, #0D1117, #1a1a2e, #0D1117); box-shadow: 0 0 20px rgba(0,217,255,0.3);">
+
+### 🚀 **MISSION ALPHA**
+**WH Billing System**  
+*Classification: ULTRA-HIGH PRIORITY*
+
+A modern shop billing and inventory management system with invoice generation, customer management, and WhatsApp invoice delivery.
+
+**⚡ Tech Stack:**  
+`React, Tailwind CSS, FastAPI, Supabase PostgreSQL, ReportLab`
+
+<a href="[Your project1Link]">
+<img src="https://img.shields.io/badge/ACCESS%20MAINFRAME-00D9FF?style=for-the-badge&logo=matrix&logoColor=0D1117&labelColor=FF073A"/>
+</a>
+
+</td>
+<td align="center" width="32%" style="border: 2px solid #FF073A; border-radius: 12px; padding: 25px; background: linear-gradient(135deg, #0D1117, #1a1a2e, #0D1117); box-shadow: 0 0 20px rgba(255,7,58,0.3);">
+
+### 🛸 **MISSION BETA**
+**Aerox Guard**  
+*Classification: DEEP SPACE OPS*
+
+A revenue leakage detection platform that reconciles contracts, billing, entitlements, and usage data to identify billing discrepancies and potential revenue loss.
+
+**⚡ Tech Stack:**  
+`Python, FastAPI, PostgreSQL, JWT, RocketRide`
+
+<a href="[Your project2Link]">
+<img src="https://img.shields.io/badge/LAUNCH%20SEQUENCE-FF073A?style=for-the-badge&logo=rocket&logoColor=white&labelColor=00D9FF"/>
+</a>
+
+</td>
+<td align="center" width="32%" style="border: 2px solid #39FF14; border-radius: 12px; padding: 25px; background: linear-gradient(135deg, #0D1117, #1a1a2e, #0D1117); box-shadow: 0 0 20px rgba(57,255,20,0.3);">
+
+### 🌌 **MISSION GAMMA**
+**Document Assistant**  
+*Classification: QUANTUM LEVEL*
+
+An AI-powered document assistant that uses document processing, semantic search, and retrieval-augmented generation to help users find relevant information from documents.
+
+**⚡ Tech Stack:**  
+`[Your project3Tech]`
+
+<a href="[Your project3Link]">
+<img src="https://img.shields.io/badge/NEURAL%20LINK-39FF14?style=for-the-badge&logo=cpu&logoColor=0D1117&labelColor=FF073A"/>
+</a>
 
 </td>
 </tr>
@@ -103,49 +134,26 @@ I enjoy turning ideas into useful applications and continuously learning new tec
 
 ---
 
-<h3 align="center">⊙ Projects</h3>
-
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/WH_Billing_System-FastAPI_%7C_PostgreSQL-316192?style=for-the-badge"/>
-</a>
+## 📡 **QUANTUM ANALYTICS DASHBOARD** 📡
 
-<p>Shop billing, inventory management, PDF invoices and WhatsApp invoice integration.</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshguptagh&bg_color=0D1117&color=00D9FF&line=FF073A&point=39FF14&area=true&hide_border=true&custom_title=Neural%20Network%20Activity%20Matrix" width="750"/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Aerox_Guard-Revenue_Leakage_Detection-2563EB?style=for-the-badge"/>
-</a>
+### 🔋 **System Performance Metrics**
+<table align="center">
+<tr>
+<td align="center">
 
-<p>Revenue reconciliation across contracts, billing, entitlements and usage.</p>
+**⚡ PROCESSING POWER**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshguptagh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF073A&text_color=C9C9C9&rank_icon=github)
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Document_Assistant-FastAPI_%7C_RAG-0D9488?style=for-the-badge"/>
-</a>
+</td>
+</tr>
+</table>
 
-<p>A document assistant exploring semantic search and retrieval-augmented generation.</p>
-
-</div>
-
----
-
-<h3 align="center">⊙ Hobbies & Goals</h3>
-
-<div align="center">
-
-Pursuing B.Sc. Computer Science
-
-<br/><br/>
-
-Building real-world projects • Exploring AI • Learning new technologies
-
-<br/><br/>
-
-*"Great software is built one step at a time."*
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png" width="140" alt="Blastoise Pokémon"/>
+### 🌟 **Command Center Intel**
+> **Classified Data:** I love turning ideas into real-world applications and experimenting with new technologies. 💻
 
 </div>
 
@@ -153,6 +161,40 @@ Building real-world projects • Exploring AI • Learning new technologies
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%"/>
+## 🛸 **GALACTIC COMMUNICATION ARRAY** 🛸
+### *Establish Neural Link with Command*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1500&color=39FF14&center=true&vCenter=true&width=750&lines=TRANSMISSION+CHANNELS+OPEN;QUANTUM+ENTANGLEMENT+READY;INITIATE+CONTACT+PROTOCOL" alt="Communication Array" />
+
+### 📡 **Primary Communication Channels**
+<p align="center" style="margin: 30px 0;">
+<a href="https://linkedin.com/in/iamashutoshgupta">
+<img src="https://img.shields.io/badge/🛰️%20PROFESSIONAL%20NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00D9FF"/>
+</a>
+<a href="https://twitter.com/[Your twitter]">
+<img src="https://img.shields.io/badge/📡%20NEURAL%20FEED-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FF073A"/>
+</a>
+<a href="[Your portfolio]">
+<img src="https://img.shields.io/badge/🌌%20COMMAND%20CENTER-00D9FF?style=for-the-badge&logo=matrix&logoColor=0D1117"/>
+</a>
+<a href="mailto:ashug1919@gmail.com">
+<img src="https://img.shields.io/badge/⚡%20QUANTUM%20MAIL-FF073A?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=39FF14"/>
+</a>
+</p>
+
+### 🔬 **Deep Space Visitor Analytics**
+<img src="https://komarev.com/ghpvc/?username=ashutoshguptagh&label=Neural%20Connections&color=00D9FF&style=for-the-badge&logo=matrix" />
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=19&height=140&section=footer&text=⚡&fontSize=80&fontColor=39FF14&animation=twinkling"/>
+
+### 🌟 **Commander's Final Transmission**
+```yaml
+╔═══════════════════════════════════════════════════╗
+║  "In the vast cosmos of code, every bug is just   ║
+║   an undiscovered feature waiting to be explored" ║
+║                                                   ║
+║  - Commander Ashutosh Gupta, Digital Space Pioneer      ║
+╚═══════════════════════════════════════════════════╝
+```
 
 </div>
